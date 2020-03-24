@@ -1,0 +1,52 @@
+package com.task4_2.task4_2;
+
+import java.util.Scanner;
+
+public class InputMain {
+	private static Scanner sc;
+	private static int type,option,cost_per_square_feet;
+	private static float total_area_of_house,amount;	 
+
+	public static void main( String[] args )
+    {
+		sc = new Scanner(System.in);
+		HouseEstimationCost obj=new HouseEstimationCost();
+		System.out.println("---Please enter total area of the house---");
+		total_area_of_house = sc.nextFloat();
+		System.out.println("---Enter 1 if you opt for a fully automated house otherwise enter 0---");
+		type=sc.nextInt();
+		if(type==1)
+		{
+			amount=obj.fullyAutomatedHome(total_area_of_house);
+			System.out.println(amount);
+		}
+		else if(type==0)
+		{
+			System.out.println("---PLease select an option for the type of material");
+			System.out.println("---Enter 1 for standard materials---");
+			System.out.println("---Enter 2 for above standard materials---");
+			System.out.println("---Enter 3 for high standard material---");
+			option=sc.nextInt();
+			if(option==1)
+			{
+				cost_per_square_feet=1200;
+				amount=obj.Home(total_area_of_house,cost_per_square_feet);
+				System.out.println(amount);
+			}
+			else if(option==2)
+			{
+				cost_per_square_feet=1500;
+				amount=obj.Home(total_area_of_house,cost_per_square_feet);
+				System.out.println(amount);
+			}
+			else if(option==3)
+			{
+				cost_per_square_feet=1800;
+				amount=obj.Home(total_area_of_house,cost_per_square_feet);
+				System.out.println(amount);
+			}
+		}
+        
+    }
+
+}

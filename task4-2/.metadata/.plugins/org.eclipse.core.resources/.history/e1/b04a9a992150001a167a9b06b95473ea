@@ -1,0 +1,20 @@
+package com.task4_2.task4_2;
+
+import java.util.Scanner;
+
+public class InputMain {
+	private static Scanner sc;
+	private static int type;
+	private static float total_area_of_house;	 
+
+	public static void main( String[] args )
+    {
+		sc = new Scanner(System.in);
+		System.out.println("---Please enter total area of the house---");
+		total_area_of_house = sc.nextFloat();
+		System.out.println("---Enter 1 if you opt for a fully automated house otherwise enter 0---");
+		type=sc.nextInt();
+        
+    }
+
+}

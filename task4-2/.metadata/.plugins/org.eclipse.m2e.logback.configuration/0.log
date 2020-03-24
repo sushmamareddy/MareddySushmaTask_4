@@ -1,0 +1,157 @@
+2020-02-15 23:37:05,214 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-02-15 23:42:10,979 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\pom.xml
+2020-02-15 23:42:13,062 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.task4_2:task4_2:0.0.1-SNAPSHOT @ C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\pom.xml.
+2020-02-15 23:42:14,895 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /task4_2/src/main/java
+2020-02-15 23:42:14,904 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /task4_2/src/test/java
+2020-02-15 23:42:16,005 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2020-02-15 23:42:17,050 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-15 23:42:17,051 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\main\resources
+2020-02-15 23:42:17,055 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-15 23:42:17,056 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\test\resources
+2020-02-15 23:42:34,186 [Worker-7: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.task4_2:task4_2:0.0.1-SNAPSHOT @ C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\pom.xml.
+2020-02-15 23:42:34,637 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-15 23:42:34,638 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\main\resources
+2020-02-15 23:42:34,640 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-15 23:42:34,641 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\test\resources
+2020-02-15 23:42:46,876 [Worker-23: Launching Executing install in C__Users_GRACE SAGAR_Documents_EPAM_Task4_task4-2_task4_2] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2
+2020-02-15 23:42:46,879 [Worker-23: Launching Executing install in C__Users_GRACE SAGAR_Documents_EPAM_Task4_task4-2_task4_2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-02-15 23:42:51,222 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-15 23:42:51,222 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\main\resources
+2020-02-15 23:42:51,224 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-15 23:42:51,224 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\test\resources
+2020-02-15 23:43:10,651 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-15 23:43:10,652 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\main\resources
+2020-02-15 23:43:10,655 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-15 23:43:10,655 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\test\resources
+2020-02-15 23:43:16,158 [Worker-25: Launching Executing install in C__Users_GRACE SAGAR_Documents_EPAM_Task4_task4-2_task4_2] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2
+2020-02-15 23:43:16,158 [Worker-25: Launching Executing install in C__Users_GRACE SAGAR_Documents_EPAM_Task4_task4-2_task4_2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-02-15 23:43:20,443 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-15 23:43:20,444 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\main\resources
+2020-02-15 23:43:20,449 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-15 23:43:20,450 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\test\resources
+2020-02-15 23:43:35,282 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-15 23:43:35,283 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\main\resources
+2020-02-15 23:43:35,285 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-15 23:43:35,286 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\test\resources
+2020-02-15 23:43:43,044 [Worker-23: Launching Executing install in C__Users_GRACE SAGAR_Documents_EPAM_Task4_task4-2_task4_2] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2
+2020-02-15 23:43:43,044 [Worker-23: Launching Executing install in C__Users_GRACE SAGAR_Documents_EPAM_Task4_task4-2_task4_2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-02-15 23:43:49,332 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-15 23:43:49,332 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\main\resources
+2020-02-15 23:43:49,335 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-15 23:43:49,336 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\test\resources
+2020-02-15 23:44:42,520 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-15 23:44:42,521 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\main\resources
+2020-02-15 23:44:42,523 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-15 23:44:42,526 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\test\resources
+2020-02-15 23:44:43,555 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-15 23:44:43,556 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\main\resources
+2020-02-15 23:44:43,561 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-15 23:44:43,561 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\test\resources
+2020-02-15 23:45:25,235 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-15 23:45:25,236 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\main\resources
+2020-02-15 23:45:25,238 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-15 23:45:25,239 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\test\resources
+2020-02-15 23:59:06,721 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-15 23:59:06,721 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\main\resources
+2020-02-15 23:59:06,725 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-15 23:59:06,725 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\test\resources
+2020-02-15 23:59:10,645 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-15 23:59:10,646 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\main\resources
+2020-02-15 23:59:10,648 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-15 23:59:10,649 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\test\resources
+2020-02-16 00:02:59,498 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:02:59,498 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\main\resources
+2020-02-16 00:02:59,500 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:02:59,500 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\test\resources
+2020-02-16 00:03:03,151 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:03:03,151 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\main\resources
+2020-02-16 00:03:03,157 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:03:03,158 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\test\resources
+2020-02-16 00:03:51,392 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:03:51,393 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\main\resources
+2020-02-16 00:03:51,396 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:03:51,396 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\test\resources
+2020-02-16 00:14:11,268 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:14:11,269 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\main\resources
+2020-02-16 00:14:11,272 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:14:11,272 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\test\resources
+2020-02-16 00:14:40,722 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:14:40,722 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\main\resources
+2020-02-16 00:14:40,724 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:14:40,725 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\test\resources
+2020-02-16 00:15:24,176 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:15:24,176 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\main\resources
+2020-02-16 00:15:24,179 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:15:24,180 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\test\resources
+2020-02-16 00:15:27,035 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:15:27,035 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\main\resources
+2020-02-16 00:15:27,036 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:15:27,037 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\test\resources
+2020-02-16 00:16:53,716 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:16:53,718 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\main\resources
+2020-02-16 00:16:53,721 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:16:53,721 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\test\resources
+2020-02-16 00:17:17,246 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:17:17,248 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\main\resources
+2020-02-16 00:17:17,252 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:17:17,253 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\test\resources
+2020-02-16 00:22:39,572 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:22:39,573 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\main\resources
+2020-02-16 00:22:39,576 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:22:39,577 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\test\resources
+2020-02-16 00:22:47,691 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:22:47,692 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\main\resources
+2020-02-16 00:22:47,697 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:22:47,698 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\test\resources
+2020-02-16 00:37:36,808 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:37:36,809 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\main\resources
+2020-02-16 00:37:36,813 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:37:36,813 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\test\resources
+2020-02-16 00:39:39,193 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:39:39,193 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\main\resources
+2020-02-16 00:39:39,194 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:39:39,194 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\test\resources
+2020-02-16 00:40:15,512 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:40:15,512 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\main\resources
+2020-02-16 00:40:15,513 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:40:15,514 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\test\resources
+2020-02-16 00:48:50,756 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:48:50,757 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\main\resources
+2020-02-16 00:48:50,760 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:48:50,761 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\test\resources
+2020-02-16 00:49:22,450 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:49:22,450 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\main\resources
+2020-02-16 00:49:22,455 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:49:22,456 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\test\resources
+2020-02-16 00:50:29,113 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:50:29,114 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\main\resources
+2020-02-16 00:50:29,117 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:50:29,119 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\test\resources
+2020-02-16 00:53:10,563 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:53:10,563 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\main\resources
+2020-02-16 00:53:10,566 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:53:10,567 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\test\resources
+2020-02-16 00:54:33,955 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:54:33,957 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\main\resources
+2020-02-16 00:54:33,960 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:54:33,961 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\test\resources
+2020-02-16 00:54:41,459 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:54:41,459 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\main\resources
+2020-02-16 00:54:41,461 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:54:41,462 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\test\resources
+2020-02-16 00:55:58,953 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:55:58,953 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\main\resources
+2020-02-16 00:55:58,955 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:55:58,956 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\test\resources
+2020-02-16 00:57:54,456 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:57:54,457 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\main\resources
+2020-02-16 00:57:54,460 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:57:54,460 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\test\resources
+2020-02-16 00:59:30,208 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:59:30,209 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\main\resources
+2020-02-16 00:59:30,213 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 00:59:30,214 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\test\resources
+2020-02-16 01:01:09,630 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 01:01:09,631 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\main\resources
+2020-02-16 01:01:09,634 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-16 01:01:09,635 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\GRACE SAGAR\Documents\EPAM\Task4\task4-2\task4_2\src\test\resources

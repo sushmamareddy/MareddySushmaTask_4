@@ -1,0 +1,11 @@
+package com.task4_2.task4_2;
+
+public class HouseEstimationCost {
+	public float fullyAutomatedHome(float total_area_of_house)
+	{
+		float amount;
+		amount=2500*total_area_of_house;
+		return amount;
+	}
+
+}
